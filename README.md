@@ -14,6 +14,7 @@ A simple web application to help bike owners track and get reminders for their n
 
 - **HTML** – Structure
 - **CSS** – Styling and layout
+- **PHP** - Connecting database
 - **JavaScript** – Logic for date calculation and reminders
 
 ## 📸 Screenshots
